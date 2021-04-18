@@ -3,12 +3,11 @@
 ![alt text](https://media.giphy.com/media/CTLLrRmutrvZ01AQou/source.gif)
 
 
-##
+## A litte about me: 
 
-I am a Boston-based software engineer with a background in international development. 
+I am a Boston-based software engineer with a background in international development. I believe that technology plays an essential role in creating informed initiatives that protect our communities. Last year, I worked with a Boston-based food rescue organization to help improve operations amidst the pandemic. As a software engineer, I code wuth thoughtfulness and dedication. Check out my pinned repositories below and connect with me! 
 
 ### My Tech Stack and Skills:
-
 
 HTML & CSS | JavaScript ES6 | React | Express | Node.js | MongoDB | SQL 
 
