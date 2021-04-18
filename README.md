@@ -1,6 +1,6 @@
 ### Hi, I'm Anvy 👋
 
-![alt text](http://gph.is/1F1ggWr)
+![alt text](https://media.giphy.com/media/26BkNnO2qmCWTQuac/source.gif)
 
 <!--
 **anvytran-dev/anvytran-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
