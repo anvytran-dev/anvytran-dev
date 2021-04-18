@@ -2,6 +2,10 @@
 
 ![alt text](https://media.giphy.com/media/CTLLrRmutrvZ01AQou/source.gif)
 
+
+### 
+
+I am a Boston-based software engineer with a background in international development. Check out my work and connect with me! 
 <!--
 **anvytran-dev/anvytran-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
