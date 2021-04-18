@@ -1,11 +1,25 @@
-### Hi, I'm Anvy 👋
+# Hi there, I'm Anvy 👋
 
 ![alt text](https://media.giphy.com/media/CTLLrRmutrvZ01AQou/source.gif)
 
 
-### 
+##
 
-I am a Boston-based software engineer with a background in international development. Check out my work and connect with me! 
+I am a Boston-based software engineer with a background in international development. 
+
+###
+
+My Tech Stack and Skills:
+HTML & CSS | JavaScript ES6 | React | Express | Node.js | MongoDB | SQL 
+
+###
+
+Currently I am working on:
+
+A platform that organizes volunteers for community events + programs.
+
+
+
 <!--
 **anvytran-dev/anvytran-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
