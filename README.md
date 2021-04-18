@@ -7,14 +7,12 @@
 
 I am a Boston-based software engineer with a background in international development. 
 
-###
+### My Tech Stack and Skills:
 
-My Tech Stack and Skills:
+
 HTML & CSS | JavaScript ES6 | React | Express | Node.js | MongoDB | SQL 
 
-###
-
-Currently I am working on:
+### Currently I am working on:
 
 A platform that organizes volunteers for community events + programs.
 
