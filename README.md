@@ -1,7 +1,7 @@
 # Hi there, I'm Anvy 👋
 
 <p align="center">
-
+<img width="200" src="https://media.giphy.com/media/CTLLrRmutrvZ01AQou/source.gif">
 ![alt text](https://media.giphy.com/media/CTLLrRmutrvZ01AQou/source.gif)
 
 </p>
