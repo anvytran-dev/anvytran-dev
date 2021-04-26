@@ -1,6 +1,10 @@
 # Hi there, I'm Anvy 👋
 
+<p align="center">
+
 ![alt text](https://media.giphy.com/media/CTLLrRmutrvZ01AQou/source.gif)
+
+</p>
 
 
 ## A litte about me: 
