@@ -16,7 +16,7 @@ HTML & CSS | JavaScript ES6 | React | Express | Node.js | MongoDB | SQL
 
 ### Currently I am working on:
 
-A platform that organizes volunteers for community events + programs
+A platform that organizes volunteers for community events + programs: https://the-sign-up-cube.herokuapp.com/
 
 
 
