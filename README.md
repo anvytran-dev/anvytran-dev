@@ -18,6 +18,8 @@ HTML & CSS | JavaScript ES6 | React | Express | Node.js | MongoDB | SQL
 
 A platform that organizes volunteers for community events + programs: https://the-sign-up-cube.herokuapp.com/
 
+Check out my tech blog: https://anvytrandev.medium.com/
+
 
 
 <!--
